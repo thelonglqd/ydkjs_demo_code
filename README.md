@@ -1,0 +1,1 @@
+Project for demo coding when reading through You don't know JS series
